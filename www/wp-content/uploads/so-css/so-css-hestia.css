@@ -1,0 +1,30 @@
+.col-md-4 {
+    width: 100% !important;
+}
+footer.footer.footer-black h5, footer.footer.footer-black h4, footer.footer.footer-black i, footer.footer.footer-black .copyright {
+    color: #fff;
+    display: none;
+}
+
+.kboard-thumbnail-poweredby {
+  
+    display: none;
+}
+
+.kboard-default-poweredby {
+   
+    display: none;
+}
+
+.navbar.hestia_left>.container {
+    flex-direction: row;
+    width: 1400px;
+}
+
+.navbar, .navbar a, .label, .footer .footer-menu a, .media-footer a, .hestia-top-bar {
+    font-size: 16px;
+}
+.kboard-pure-gallery-poweredby {
+
+    display: none;
+}
